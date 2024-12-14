@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'ja'
+title = 'チケット駆動開発がまわりはじめるまでの取り組み'
+theme = "hugo-xmin"
