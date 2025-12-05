@@ -2,4 +2,17 @@ baseURL = '/'
 relativeurls = true
 languageCode = 'ja'
 title = 'チケット駆動開発がまわりはじめるまでの取り組み'
-theme = "hugo-xmin"
+theme = "hugo-minimal"
+
+[params]
+  googleAnalytics = "G-9DKFR6CWMW"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Profile"
+  url = "https://hub.zinrai.info"
+  weight = 2
